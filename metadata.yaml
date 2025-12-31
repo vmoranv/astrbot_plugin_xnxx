@@ -1,6 +1,6 @@
 name: astrbot_plugin_xnxx
 display_name: XNXX 视频查询插件
-author: YourName
+author: vmoranv
 version: v1.0.0
 desc: XNXX 视频信息查询插件，支持获取视频详情、搜索视频和用户信息
-repo: https://github.com/yourname/astrbot_plugin_xnxx
+repo: https://github.com/vmoranv/astrbot_plugin_xnxx

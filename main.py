@@ -22,7 +22,6 @@ except ImportError:
 XNXX_BASE_URL = "https://www.xnxx.com/video-"
 
 
-@register("astrbot_plugin_xnxx", "YourName", "XNXX 视频信息查询插件", "1.0.0")
 class XNXXPlugin(Star):
     def __init__(self, context: Context):
         super().__init__(context)
